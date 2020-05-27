@@ -1,3 +1,6 @@
+
+#
+#
 # 프로그래머스 level 1 완주하지 못한 선수
 
 def solution(participant, completion):
@@ -19,3 +22,5 @@ def solution(participant, completion):
     return list(answer.keys())[0]
     
 # collections Counter, 동일한 값의 자료가 몇개인지를 파악하는데 사용하는 객체
+#
+#
